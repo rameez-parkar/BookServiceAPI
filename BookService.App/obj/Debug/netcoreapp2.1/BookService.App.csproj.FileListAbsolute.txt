@@ -1,0 +1,14 @@
+C:\Users\rparkar\Desktop\Assignments\BookService\BookService.App\bin\Debug\netcoreapp2.1\BookService.App.deps.json
+C:\Users\rparkar\Desktop\Assignments\BookService\BookService.App\bin\Debug\netcoreapp2.1\BookService.App.runtimeconfig.json
+C:\Users\rparkar\Desktop\Assignments\BookService\BookService.App\bin\Debug\netcoreapp2.1\BookService.App.runtimeconfig.dev.json
+C:\Users\rparkar\Desktop\Assignments\BookService\BookService.App\bin\Debug\netcoreapp2.1\BookService.App.dll
+C:\Users\rparkar\Desktop\Assignments\BookService\BookService.App\obj\Debug\netcoreapp2.1\BookService.App.csproj.CoreCompileInputs.cache
+C:\Users\rparkar\Desktop\Assignments\BookService\BookService.App\obj\Debug\netcoreapp2.1\BookService.App.RazorAssemblyInfo.cache
+C:\Users\rparkar\Desktop\Assignments\BookService\BookService.App\obj\Debug\netcoreapp2.1\BookService.App.RazorAssemblyInfo.cs
+C:\Users\rparkar\Desktop\Assignments\BookService\BookService.App\obj\Debug\netcoreapp2.1\BookService.App.AssemblyInfoInputs.cache
+C:\Users\rparkar\Desktop\Assignments\BookService\BookService.App\obj\Debug\netcoreapp2.1\BookService.App.AssemblyInfo.cs
+C:\Users\rparkar\Desktop\Assignments\BookService\BookService.App\obj\Debug\netcoreapp2.1\BookService.App.RazorTargetAssemblyInfo.cache
+C:\Users\rparkar\Desktop\Assignments\BookService\BookService.App\bin\Debug\netcoreapp2.1\BookService.App.pdb
+C:\Users\rparkar\Desktop\Assignments\BookService\BookService.App\obj\Debug\netcoreapp2.1\BookService.App.csprojAssemblyReference.cache
+C:\Users\rparkar\Desktop\Assignments\BookService\BookService.App\obj\Debug\netcoreapp2.1\BookService.App.dll
+C:\Users\rparkar\Desktop\Assignments\BookService\BookService.App\obj\Debug\netcoreapp2.1\BookService.App.pdb
